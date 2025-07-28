@@ -8,3 +8,6 @@ My bachelor's thesis title is: "New techniques for SSI based remote presentation
 - [Issuer](https://github.com/konsklav/eudi-srv-web-issuing-eudiw-py)
 - [Wallet](https://github.com/konsklav/eudi-app-android-wallet-ui)
 - [Verifier](https://github.com/konsklav/gracid-web-verifier)
+
+## Documentation
+[View the PDF](https://github.com/konsklav/gracid-eudiw-thesis/blob/main/Πτυχιακή Εργασία - Σκλαβενίτης Κωνσταντίνος, Π21151.pdf)
