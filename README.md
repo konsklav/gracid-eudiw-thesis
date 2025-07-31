@@ -10,4 +10,4 @@ My bachelor's thesis title is: "New techniques for SSI based remote presentation
 - [Verifier](https://github.com/konsklav/gracid-web-verifier)
 
 ## Documentation
-[View the PDF here](https://github.com/konsklav/gracid-eudiw-thesis/blob/master/Sklavenitis_21151.pdf)
+[View the PDF here](https://dione.lib.unipi.gr/xmlui/handle/unipi/18052)
